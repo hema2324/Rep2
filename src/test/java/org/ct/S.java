@@ -4,7 +4,11 @@ public class S {
 	
 	public static void main(String[] args) {
 		System.out.println( "vk");
+
+		System.out.println("hk");
+
 		System.out.println("vk1");
+
 	}
 
 }
